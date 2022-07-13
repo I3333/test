@@ -7,4 +7,5 @@ public interface iMember {
 	void insert(String id,String pwd,String name,String mobile);
 	//1111
 	//2222
+	//33333
 }
